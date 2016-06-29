@@ -1,0 +1,16 @@
+Intel Edison 开发板。
+
+当前接入设备：
+	16*2 LCD， I2C接口
+	光感器
+	声音Sensor
+	AirQuality Sensor
+	温度传感器
+
+目前已经完成
+	Xively数据上传下载
+	相关数据读取
+	LCD输出数据
+	
+有待完成：
+	使用单一例程持续运行程序
