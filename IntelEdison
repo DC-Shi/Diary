@@ -10,7 +10,7 @@ Intel Edison 开发板。
 目前已经完成
 	Xively数据上传下载
 	相关数据读取
-	LCD输出数据
+	LCD输出数据(brightness changed)
 	
 有待完成：
 	使用单一例程持续运行程序
