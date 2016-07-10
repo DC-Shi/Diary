@@ -3,5 +3,4 @@ DONE:
 	路由器设置MAC隔离： ebtables -A FORWARD -s 00:01:02:03:04:05 -j DROP
 
 TODO:
-	下载GITHUB客户端，用于日常更新本项目
 	添加自动启动项，使得每次启动路由自动运行隔离指令
