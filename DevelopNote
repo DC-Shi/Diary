@@ -13,6 +13,6 @@ ETS2寻路问题（50hr）：
     经查看，Junction处非常耗时。余下的Junction数量为43+51=94个，按照6个1hr来算，总计约15hr。
     考虑到还有直线段大约30段，算25hr
     总计约50hr
-    11 hr, 24 Junction, 2 cities remaining
+    13 hr, 31 Junction, 2 cities remaining
 
 作为对比，每周工时：40hr
