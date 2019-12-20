@@ -81,3 +81,23 @@
 前往机场，行程结束。
 
 -----------------------
+
+全程考察总结：
+
+线路名 | 里程 | 活动 |参考链接
+-------|------|---------|---------
+昆河线 | K-4+410 | 昆明北站，云南铁路博物馆 | https://zh.wikipedia.org/wiki/昆明北站
+昆河线 | K53+504 | S-02 | https://zh.wikipedia.org/wiki/可保村站
+昆河线 | K53+630 | S-03 | https://zh.wikipedia.org/wiki/水晶坡站
+昆河线 | K244+000<br>K247+550 | 开远站<br>1909广场站 | https://zh.wikipedia.org/wiki/开远站
+昆河线 | K287+409.30 | 碧色寨站附近 | https://zh.wikipedia.org/wiki/碧色寨站
+昆河线 | K352+567 | S-119 | 
+昆河线 | K353+043 | 桥 135，五家寨铁路桥，人字桥 | https://zh.wikipedia.org/wiki/五家寨铁路桥
+昆河线 | K353+255.95 | 宿舍区 | 
+昆河线 | K382+340 | 白寨大桥附近 | 
+昆河线 | K381+632 | 桥 156，白寨大桥 | https://baike.baidu.com/item/白寨大桥
+昆河线 | K464+186 | S-172 | 
+昆河线 | K464+444 | 桥 187，河口中越铁路大桥 | 
+河老铁路 | 294km<br>0km | 老街站<br>河内站 | https://ja.wikipedia.org/wiki/ハノイ・ラオカイ線
+河老铁路 | KM 00+598 | 道口值班室<br>咖啡火车街 | 
+河同铁路 | k3+037 | 龙编桥 |https://zh.wikipedia.org/wiki/龍編橋
