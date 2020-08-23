@@ -21,12 +21,13 @@ popd
 
 # 3. Change code if you want to add more modules
 
-``
+```
 wget -O tc358743_nano.zip https://gist.github.com/nyacg/becd94a029355825a05f633f38a25b46/archive/74d4bebf7ab3fa7b98fb1007cf8d2936e45db553.zip
 
 unzip tc358743_nano.zip
 mv becd94a029355825a05f633f38a25b46-74d4bebf7ab3fa7b98fb1007cf8d2936e45db553 src_tc358743
 ```
+
 Follow the guide to change some file.
 
 # 4. Compile kernel & dtb
