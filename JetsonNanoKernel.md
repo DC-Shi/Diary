@@ -32,10 +32,22 @@ wget -O tc358743_nano.zip https://gist.github.com/nyacg/becd94a029355825a05f633f
 
 unzip tc358743_nano.zip
 mv becd94a029355825a05f633f38a25b46-74d4bebf7ab3fa7b98fb1007cf8d2936e45db553 src_tc358743
+cp -i ./src_tc358743/tc358743_regs.h ./Linux_for_Tegra/source/public/kernel/kernel-4.9/drivers/media/i2c/tc358743_regs.h
+cp -i ./src_tc358743/tegra210-tc358743.dtsi ./Linux_for_Tegra/source/public/hardware/nvidia/platform/t210/porg/kernel-dts/
+cp -i ./src_tc358743/tc358743.h ./Linux_for_Tegra/source/public/kernel/kernel-4.9/include/media/i2c/tc358743.h
+cp -i ./src_tc358743/tc358743.c ./Linux_for_Tegra/source/public/kernel/kernel-4.9/drivers/media/i2c/tc358743.c
 ```
 
 Follow the guide to change some file.
-You might need to change kernel/kernel4.9/arch/arm64/configs/tegra_defconfig
+```
+pushd Linux_for_Tegra/source/public/hardware/nvidia/platform/t210/porg/kernel-dts
+# do dtsi file editing
+popd
+```
+You might need to change tegra_defconfig to add CONFIG_VIDEO_TC358743=y
+```
+vi Linux_for_Tegra/source/public/kernel/kernel-4.9/arch/arm64/configs/tegra_defconfig
+```
 
 # 4. Compile kernel & dtb
 
