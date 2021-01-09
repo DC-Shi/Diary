@@ -76,7 +76,9 @@ Remining 16 pins are designed as below:
 3 | Volume up, mute, volume down
 1 | input from touch button as whether we enter testing mode(local mode)
 1 | input from touch button, as wheter we can output a keyboard press.
-11 | reserved for future/below use
+1 | **[Backspace key]** Emergency button for Train Simulator
+1 | **[Q key]** Driver warning (PZB/CTCS)  for Train Simulator
+9 | reserved for future/below use
 1 | OLED Chip select
 6 | 16-channel analog multiplexer CD74HC4067
 
